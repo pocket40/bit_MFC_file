@@ -104,3 +104,5 @@ int main()
     CloseHandle(hFile);//커널 개체 핸들을 닫는 API    
     return 0;
 }
+
+// git 변경 내용
